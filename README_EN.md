@@ -57,7 +57,7 @@ Muhamed Drive provides comprehensive protection for your data at all levels. We 
 
 ---
 
-## 🧠 Future Technologies: What Makes Muhamed Drive Unique?
+## Future Technologies: What Makes Muhamed Drive Unique?
 
 - **AI File Organizer** – automatic sorting and tagging of uploaded documents, photos, and videos. Search by image content (OCR) and voice query input.
 
@@ -70,10 +70,6 @@ Muhamed Drive provides comprehensive protection for your data at all levels. We 
 - **Smart Sync** – partial file synchronization: you see all files in your file explorer, but they only take up space in the cloud. Only the files you open are downloaded. Save up to 90% of local disk space.
 
 - **WebDAV + Rclone compatibility** – mount Muhamed Drive as a network drive or use it for automated server backups.
-
-- **Online editing of 3D models and CAD drawings** – without installing heavy software, directly in your browser.
-
-> 🚀 Upcoming: integration with neural networks for generating text, images, and video subtitles directly within the cloud.
 
 ---
 
